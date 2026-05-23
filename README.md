@@ -15,7 +15,7 @@ This workflow fetches the latest AI-related news, summarizes it using AI, and se
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - n8n
 - OpenAI API
@@ -24,7 +24,7 @@ This workflow fetches the latest AI-related news, summarizes it using AI, and se
 
 ---
 
-## ⚙️ Workflow Architecture
+##  Workflow Architecture
 
 ```text
 Schedule Trigger
