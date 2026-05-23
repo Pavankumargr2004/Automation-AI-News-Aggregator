@@ -5,7 +5,7 @@ This workflow fetches the latest AI-related news, summarizes it using AI, and se
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Fetches real-time news using NewsAPI
 - AI-generated news summarization
@@ -38,7 +38,7 @@ Send Email via Gmail
 
 ---
 
-## 📌 Use Case
+##  Use Case
 
 This project helps users receive automated AI news summaries directly in their inbox without manually browsing multiple websites.
 
@@ -54,7 +54,7 @@ Example:<img width="1912" height="971" alt="image" src="https://github.com/user-
 
 
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. Clone the repository
 
@@ -73,7 +73,7 @@ git clone https://github.com/your-username/ai-news-aggregator.git
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Telegram notifications
 - Google Sheets integration
@@ -83,12 +83,13 @@ git clone https://github.com/your-username/ai-news-aggregator.git
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Pavan Kumar GR
 
 ---
 
-## ⭐ Project Status
+## 
+Project Status
 
 ✅ Live and Working
