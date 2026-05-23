@@ -22,7 +22,7 @@
     },
     {
       "parameters": {
-        "url": "https://newsapi.org/v2/everything?q=artificial+intelligence&sortBy=publishedAt&language=en&pageSize=2&apiKey=b8aaccb030244f5ea7b4f85d8d6fe225",
+        "url": "https://newsapi.org/v2/everything?q=artificial+intelligence&sortBy=publishedAt&language=en&pageSize=2&apiKey=API_KEY",
         "options": {}
       },
       "type": "n8n-nodes-base.httpRequest",
